@@ -1,0 +1,231 @@
+ColumnName,Label
+year,
+economy,Economy
+economycode,Economy code
+regionwb,Regional code
+pop_adult,"Population 15+, 2023, WDI"
+wpid_random,Gallup World Poll identifier
+wgt,Weight
+female,Respondent is female
+age,Respondent age
+educ,Respondent education level
+inc_q,Within-economy household income quintile
+emp_in,Respondent is in workforce
+urbanicity,Respondent lives in rural area
+account_fin,Has an account at a financial institution
+account_mob,Has a mobile money account
+account,Has an account
+dig_account,Has a digitally enabled account
+borrowed,Borrowed
+saved,Saved
+receive_wages,Received a wage payment
+receive_transfers,Received a government transfer payment
+receive_pensions,Received a government pension payment
+receive_agriculture,Received a payment for the sale of agricultural goods
+merchantpay_dig,"Made a digital merchant 
+payment"
+pay_utilities,Paid a utility bill
+domestic_remittances,Made or received a domestic remittance payment
+anydigpayment,Made or received a digital payment
+fin2,Has a debit card
+fin3,Used a card or mobile phone to access account
+fin4,Opened first account to receive a wage or salary payment or money from the gover
+fin5,Frequency of money deposited into accounts
+fin6,Frequency of money sent or taken out of accounts
+fin7,Any deposits or withdrawals
+fin8,Store money in account
+fin9a,"Receive account balance 
+information using a mobile phone or the internet"
+fin9b,Check account balance using a mobile phone or the internet
+fin10,Has a credit card
+fin11_0,Has a card that you can add money to and use to send and receive money or make p
+fin11_1,Ever had an account at a bank or similar financial institution
+fin11_2,Could use account without help
+fin11a,Reason for no account: too far
+fin11b,Reason for no account: fees too expensive
+fin11c,Reason for no account: lack documentation
+fin11d,Reason for no account: lack money
+fin11e,Reason for no account: family member already has one
+fin11f,Reason for no account: lack trust
+fin13_1,Mobile money meets financial needs
+fin13a,Frequency of money deposited into mobile money accounts
+fin13b,Frequency of money sent from mobile money accounts
+fin13c,Frequency of money taken out of mobile money accounts
+fin13d,Store money in mobile money account
+fin13e,Asked for mobile money PIN or password
+fin13f,"Sent money to the wrong 
+number"
+fin13f_1,Received money back after sending to the wrong number
+fin14a,Reason for no mobile money account: too far
+fin14b,Reason for no mobile money account: too expensive
+fin14c,Reason for no mobile money account: lack documentation
+fin14d,Reason for no mobile money account: lack of money
+fin14e,Reason for no mobile money account: worried about security
+fin15,"Used an agent or someone else to make a mobile money 
+payment"
+fin16,"Ever had a mobile money 
+account"
+fin17a,Saved at a bank or similar financial institution
+fin17b,Saved using a mobile money account
+fin17c,Saved using a savings club or a person outside the family
+fin17d,Formal saving frequency
+fin17e,Received interest
+fin17f,Saved formally for old age
+fin18,Saved for any reason
+fin19,Made regular payments to insurance agent or company
+fin20,Applied for a loan using a mobile phone
+fin21,Received loan applied for using a mobile phone
+fin22a,Borrowed from a formal bank or similar financial institution
+fin22a_1,Borrowed from a mobile money provider
+fin22b,Borrowed from friends or family
+fin22c,Borrowed from an informal savings club
+fin22d,Borrowed for health or medical purposes
+fin22e,Borrowed to start or operate a business
+fin22f,Purchased food on credit
+fin22g,Used a credit card
+fin22h,Paid off all credit card balances in full by their due date
+fin23,Borrowed money for any reason
+fin24,Main source of emergency money in 30 days
+fin24a,Difficulty of emergency funds in 30 days
+fin24b,How long household could cover expenses if main source of income was lost
+fin24c,Experienced a natural disaster or severe weather event
+fin24d1,"Natural disaster in the past three years: Income lost or unable to work, by self"
+fin24d2,Natural disaster in the past three years: Damage to home or livestock
+fin24d3,Natural disaster in the past three years: Unable to access or use their account
+fin25e1,Use a mobile phone or card to pay for household cleaning supplies
+fin25e2,Used a mobile phone or a card to pay for an in-store purchase
+fin25e3,Frequency of digital in-store merchant payments
+fin25e4,Main reason for only using cash for in-store merchant payments
+fin26a,"Used a mobile phone or 
+computer to make a bill 
+payment"
+fin26b,Used a mobile phone or the internet to buy something online
+fin27,"Online purchase mode of 
+payment"
+fh1,Made a domestic remittance
+fin28,"Made a digital domestic 
+remittance"
+fh2,Received a domestic remittance
+fin29,Received a digital domestic remittance
+fh2a,"Received an international 
+remittance payment"
+fin30,Made a utility payment
+fin31a,Made a utility payment using a bank account
+fin31b,Made a utility payment using a mobile phone
+fin31c,Made a utility payment by handing cash to a bank agent or staff
+fin31d,"Made utility payments 
+exclusively in cash"
+fin32,Received a wage payment
+fin33,"Employed by the government, military, or public sector"
+fin34a,"Received wage payment into a bank or similar institution 
+account"
+fin34b,Received a wage payment through a mobile phone
+fin34c,Received a wage payment in cash
+fin34d,Received a wage payment into a card
+fin35,Paid an unexpected fee to withdraw wages
+fin36,Mode of wage withdrawal from account
+fin36a,Person withdrawing wage from account
+fin37,Received financial support from the government
+fin38,Received a public sector pension 
+fin39a,"Received money from the 
+government into a bank account"
+fin39b,"Received money from the 
+government through a mobile phone"
+fin39c,"Received money from the 
+government only in cash"
+fin39d,"Received money from the 
+government into a card"
+fin40,Mode of government money withdrawal from account
+fin41,Paid an unexpected fee to withdraw government money from account
+fin41a,Person withdrawing money from the government from account
+fin42,"Received an agricultural 
+payment"
+fin43a,"Received an agricultural 
+payment into a bank account"
+fin43b,"Received an agricultural 
+payment through a mobile phone"
+fin43c,"Received an agricultural 
+payment only in cash"
+fin43d,"Received an agricultural 
+payment into a card"
+fin44,Use phone or internet to access weather or farming information
+fin45,Greatest financial worry
+internet_use,Used the internet within the past three months
+con1,Have a mobile phone
+con2a,Reason for no phone: lack of money
+con2b,Reason for no phone: mobile minutes are too expensive
+con2c,Reason for no mobile phone: lack of reliable coverage
+con2d,Reason for no mobile phone: difficulties reading or typing
+con2e,Reason for no mobile phone: family or community disapproval
+con2f,Reason for no mobile phone: worried about safety or security
+con2g,Reason for no mobile phone: used someone else's mobile phone
+con3,Main reason for not having a mobile phone
+con4,Used someone else's mobile phone
+con5,Type of phone used when using someone else's phone
+con6,"Personal SIM card used in 
+someone else's phone"
+con7,Rules for using someone else's phone
+con8,Someone in the household owns a mobile phone
+con9,Type of phone
+con10,Could use whatsapp on basic phone
+con11,SIM registered in own name
+con12,Mobile phone use frequency
+con13,Used a mobile phone in the past three months
+con14,Read a text message
+con15,Can understand a text message with English letters
+con16,Sent a text message
+con17,Preferred mode of government communication
+con18,Have a PIN or password on mobile phone
+con19,Can change PIN or password
+con20,Rules about using own phone
+con21,Received scam text or call
+con22,Sent money to scammer
+con23,Received unwanted or offensive messages
+con24,Used the internet in the past 7 days
+con25,Used the internet in the past 3 months
+con26,Frequency of internet use
+con27,Purchase a data package
+con28,Frequency of data package purchase
+con29,Connect to the internet only through free WiFi
+con30a,Sent a voice message from a mobile phone
+con30b,Sent a photo from a mobile phone
+con30c,Used social media on a mobile phone
+con30d,Read about news or current events online
+con30e,"Accessed educational 
+information online"
+con30f,Earned money online
+con30g,Accessed government services or searched for government information online
+con30h,Searched or applied for a job online
+con31a,Reason for no smartphone: not enough money
+con31b,Reason for no smartphone: data plan is too expensive
+con31c,Reason for no smartphone: no reliable coverage
+con31d,Reason for no smartphone: difficulties reading or typing on a smartphone
+con31e,Reason for no smartphone: family or community disapproval
+con31f,Reason for no smartphone: worried about safety or security
+con31g,Reason for no smartphone: use someone else's smartphone
+con31h,Reason for no smartphone: no need
+con32,Main reason for not having a smartphone
+fin46,ID ownership
+fin47,"Foundational ID has been used
+without permission for illegal
+purposes"
+fin48a,Reason no ID: Have another ID
+fin48b,Reason no ID: Do not need an ID
+fin48c,Reason no ID: Too expensive
+fin48d,Reason no ID: No documents
+fin48e,Reason no ID: Travel too far
+fin48f,Reason no ID: Uncomfortable sharing information
+fin49a,"Challenge: Receiving financial
+support from the government"
+fin49b,"Challenge: Using financial
+services"
+fin49c,Challenge: Obtaining a SIM card
+fin49d,"Challenge: Participating in
+elections"
+fin49e, Challenge: Applying for a job
+fin49f,"Challenge: Receiving medical
+care"
+fin50,Online digital ID ownership
+fin51,"Online digital ID has been used
+on phone or computer to confirm
+identity online"

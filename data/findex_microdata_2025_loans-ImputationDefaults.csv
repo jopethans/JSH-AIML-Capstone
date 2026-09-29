@@ -1,0 +1,64 @@
+Column,default,rationale
+con19,8,"Set to ""Don't Know"""
+fin6,5,"Set to ""Don't Know"""
+fin5,5,"Set to ""Don't Know"""
+fin31b,3,"Set to ""Don't Know"""
+fin31a,3,"Set to ""Don't Know"""
+fin25e3,4,"Set to ""Don't Know"""
+fin17e,3,"Set to ""Don't Know"""
+fin17f,3,"Set to ""Don't Know"""
+fin17b,3,"Set to ""Don't Know"""
+fin22a_1,3,"Set to ""Don't Know"""
+con26,8,"Set to ""Don't Know"""
+con27,8,"Set to ""Don't Know"""
+con30e,8,"Set to ""Don't Know"""
+con30b,8,"Set to ""Don't Know"""
+con30a,8,"Set to ""Don't Know"""
+con30g,8,"Set to ""Don't Know"""
+con30h,8,"Set to ""Don't Know"""
+con30f,8,"Set to ""Don't Know"""
+con30c,8,"Set to ""Don't Know"""
+con30d,8,"Set to ""Don't Know"""
+con16,8,"Set to ""Don't Know"""
+fin8,3,"Set to ""Don't Know"""
+fin3,3,"Set to ""Don't Know"""
+fin9b,3,"Set to ""Don't Know"""
+fin10,3,"Set to ""Don't Know"""
+fin5,5,"Set to ""Don't Know"""
+fin9a,3,"Set to ""Don't Know"""
+con21,8,"Set to ""Don't Know"""
+con18,8,"Set to ""Don't Know"""
+con11,1,Strong majority = YES
+con12,1,Strong majority = daily
+con20,2,Strong majority = NO
+con17,8,"Set to ""Don't Know""; no strong majority for one mode"
+con14,1,Strong majority = YES
+con23,2,Strong majority = NO
+fin25e1,3,"Set to ""Don't Know""' no strong majority"
+account_mob,1,Subset has strong skew to YES
+fin47,2,Strong skew to NO
+domestic_remittances,1,Strong majority = using an account
+fin22f,3,"Set to ""Don't Know""; no strong majority for one mode"
+receive_pensions,4,Strong majority = Did not receive
+fin32,3,"Set to ""Don't Know""; no strong majority answer"
+fin42,2,Strong majority = NO
+receive_wages,5,"Set to ""Don't Know"", no clear majority answer"
+receive_transfers,4,"Supermajority on ""Did not receive"""
+receive_agriculture,4,"Supermajority on ""Did not receive"""
+pay_utilities,5,No supermajority answer
+fin38,2,"Supermajority on ""NO"""
+fin37,2,"Supermajority on ""NO"""
+fh2,3,"Set to ""Don't Know"", no clear majority answer"
+fh2a,2,"Supermajority on ""NO"""
+fh1,3,"Set to ""Don't Know"", no clear majority answer"
+fin30,3,"Set to ""Don't Know"", no clear majority answer"
+fin26a,3,"Set to ""Don't Know"", no clear majority answer"
+fin25e2,3,"Set to ""Don't Know"", no clear majority answer"
+fin26b,3,"Set to ""Don't Know"", no clear majority answer"
+fin46,1,Overwhelming majority = YES
+emp_in,1,Supermajority = YES
+con9,1,Supermajority = Smartphone
+fin24a,4,"Set to ""Don't Know"", no clear majority answer"
+inc_q,5,"Largest Bin, even if no supermajority and very few NULL values"
+urbanicity,1,"Largest Bin, even if no supermajority and very few NULL values"
+educ,2,"Secondary Education = Largest Bin, even if no supermajority and very few NULL values"
